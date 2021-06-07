@@ -1,0 +1,12 @@
+.container {
+  padding: 20px;
+}
+
+.credit-card-form {
+  background-color: #fff;
+  padding: 10px;
+}
+
+input[type='text'] {
+  border: solid 1px #e7e7e7;
+}

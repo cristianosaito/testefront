@@ -1,0 +1,398 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+      >
+        <h2>
+          CARTÃO DE CRÉDITO
+        </h2>
+        <form
+          class="sc-bdnxRM dDPLSB"
+        >
+          <div
+            class="credit-card-form"
+          >
+            <label
+              class="sc-eCApnc iHOios"
+            >
+              <span
+                class="sc-dlnjwi hfclcP"
+              >
+                Número do cartão:
+              </span>
+              <input
+                class="sc-hKFxyN eYAHTg"
+                name="cardNumber"
+                placeholder="0000 0000 0000 0000"
+                type="text"
+              />
+            </label>
+            <label
+              class="sc-eCApnc iHOios"
+            >
+              <span
+                class="sc-dlnjwi hfclcP"
+              >
+                Nome do Titular:
+              </span>
+              <input
+                class="sc-hKFxyN eYAHTg"
+                name="nome"
+                placeholder=""
+                type="text"
+              />
+            </label>
+            <label
+              class="sc-eCApnc iHOios"
+            >
+              <span
+                class="sc-dlnjwi hfclcP"
+              >
+                Validade (mês/ano):
+              </span>
+              <input
+                class="sc-hKFxyN eYAHTg"
+                name="validade"
+                placeholder="--/----"
+                type="text"
+              />
+            </label>
+            <label
+              class="sc-eCApnc iHOios"
+            >
+              <span
+                class="sc-dlnjwi hfclcP"
+              >
+                CVV:
+              </span>
+              <input
+                class="sc-hKFxyN eYAHTg"
+                name="cvv"
+                placeholder=""
+                type="text"
+              />
+            </label>
+          </div>
+          <div>
+            <ul
+              class="info-table"
+            >
+              <li
+                class="info"
+              >
+                <div
+                  class="card"
+                >
+                  <p
+                    class="info-item"
+                  >
+                    PRODUTOS
+                  </p>
+                  <p
+                    class="price"
+                  >
+                    <span>
+                      R$624,80
+                    </span>
+                  </p>
+                </div>
+              </li>
+              <li
+                class="info"
+              >
+                <div
+                  class="card"
+                >
+                  <p
+                    class="info-item"
+                  >
+                    FRETE
+                  </p>
+                  <p
+                    class="price"
+                  >
+                    <span>
+                      R$5,30
+                    </span>
+                  </p>
+                </div>
+              </li>
+              <li
+                class="info"
+              >
+                <div
+                  class="card"
+                >
+                  <p
+                    class="info-item-orange"
+                  >
+                    DESCONTO
+                  </p>
+                  <p
+                    class="price"
+                  >
+                    <span>
+                      R$30,00
+                    </span>
+                  </p>
+                </div>
+              </li>
+              <li
+                class="info"
+              >
+                <div
+                  class="card"
+                >
+                  <p
+                    class="info-item-bold"
+                  >
+                    TOTAL
+                  </p>
+                  <p
+                    class="price"
+                  >
+                    <span>
+                      R$618,90
+                    </span>
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <button
+            class="sc-gtsrHT idiXIU"
+            disabled=""
+          >
+            FINALIZAR O PEDIDO
+          </button>
+        </form>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+    >
+      <h2>
+        CARTÃO DE CRÉDITO
+      </h2>
+      <form
+        class="sc-bdnxRM dDPLSB"
+      >
+        <div
+          class="credit-card-form"
+        >
+          <label
+            class="sc-eCApnc iHOios"
+          >
+            <span
+              class="sc-dlnjwi hfclcP"
+            >
+              Número do cartão:
+            </span>
+            <input
+              class="sc-hKFxyN eYAHTg"
+              name="cardNumber"
+              placeholder="0000 0000 0000 0000"
+              type="text"
+            />
+          </label>
+          <label
+            class="sc-eCApnc iHOios"
+          >
+            <span
+              class="sc-dlnjwi hfclcP"
+            >
+              Nome do Titular:
+            </span>
+            <input
+              class="sc-hKFxyN eYAHTg"
+              name="nome"
+              placeholder=""
+              type="text"
+            />
+          </label>
+          <label
+            class="sc-eCApnc iHOios"
+          >
+            <span
+              class="sc-dlnjwi hfclcP"
+            >
+              Validade (mês/ano):
+            </span>
+            <input
+              class="sc-hKFxyN eYAHTg"
+              name="validade"
+              placeholder="--/----"
+              type="text"
+            />
+          </label>
+          <label
+            class="sc-eCApnc iHOios"
+          >
+            <span
+              class="sc-dlnjwi hfclcP"
+            >
+              CVV:
+            </span>
+            <input
+              class="sc-hKFxyN eYAHTg"
+              name="cvv"
+              placeholder=""
+              type="text"
+            />
+          </label>
+        </div>
+        <div>
+          <ul
+            class="info-table"
+          >
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item"
+                >
+                  PRODUTOS
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$624,80
+                  </span>
+                </p>
+              </div>
+            </li>
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item"
+                >
+                  FRETE
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$5,30
+                  </span>
+                </p>
+              </div>
+            </li>
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item-orange"
+                >
+                  DESCONTO
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$30,00
+                  </span>
+                </p>
+              </div>
+            </li>
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item-bold"
+                >
+                  TOTAL
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$618,90
+                  </span>
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <button
+          class="sc-gtsrHT idiXIU"
+          disabled=""
+        >
+          FINALIZAR O PEDIDO
+        </button>
+      </form>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

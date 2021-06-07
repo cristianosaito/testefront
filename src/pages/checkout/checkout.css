@@ -1,0 +1,17 @@
+.container {
+  padding: 20px;
+}
+
+.pagamento {
+  background-color: #fff;
+  padding: 10px;
+  color: #000;
+}
+
+.success {
+  text-align: center;
+}
+
+.success img {
+  width: 260px;
+}

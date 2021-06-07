@@ -1,0 +1,412 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+      >
+        <div
+          class="success"
+        >
+          <img
+            alt="success"
+            src="/assets/images/success.png"
+          />
+        </div>
+        <h2>
+          PAGAMENTO
+        </h2>
+        <div
+          class="pagamento"
+        >
+          <p>
+            1212 1212 1212 1212
+          </p>
+          <p>
+            CRISTIANO SAITO DE SOUZA
+          </p>
+          <p>
+            11/1111
+          </p>
+        </div>
+        <h2>
+          PRODUTOS
+        </h2>
+        <div>
+          <ul
+            class="product-list"
+          >
+            <li
+              class="product"
+            >
+              <div
+                class="card"
+              >
+                <img
+                  alt="L'Oréal Professionnel Expert Absolut Repair Cortex Lipidium - Máscara de Reconstrução 500g"
+                  src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/6/loreal-professionnel-expert-absolut-repair-cortex-lipidium-mascara-de-reconstrucao-500g-24410-963234120108391775.png"
+                />
+                <p
+                  class="description"
+                >
+                  L'Oréal Professionnel Expert Absolut Repair Cortex Lipidium - Máscara de Reconstrução 500g
+                </p>
+              </div>
+            </li>
+            <li
+              class="product"
+            >
+              <div
+                class="card"
+              >
+                <img
+                  alt="Good Girl Carolina Herrera Eau de Parfum - Perfume Feminino 30ml"
+                  src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/6/good-girl-carolina-herrera-eau-de-parfum-perfume-feminino-30ml-38273-1960525940762131267.jpg"
+                />
+                <p
+                  class="description"
+                >
+                  Good Girl Carolina Herrera Eau de Parfum - Perfume Feminino 30ml
+                </p>
+              </div>
+            </li>
+            <li
+              class="product"
+            >
+              <div
+                class="card"
+              >
+                <img
+                  alt="Senscience Inner Restore Intensif - Máscara Capilar 50ml"
+                  src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/6/senscience-inner-restore-intesif-deep-repairing-masque-mascara-de-tratamento-50ml-3019-7903251722539384904.png"
+                />
+                <p
+                  class="description"
+                >
+                  Senscience Inner Restore Intensif - Máscara Capilar 50ml
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <ul
+            class="info-table"
+          >
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item"
+                >
+                  PRODUTOS
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$624,80
+                  </span>
+                </p>
+              </div>
+            </li>
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item"
+                >
+                  FRETE
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$5,30
+                  </span>
+                </p>
+              </div>
+            </li>
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item-orange"
+                >
+                  DESCONTO
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$30,00
+                  </span>
+                </p>
+              </div>
+            </li>
+            <li
+              class="info"
+            >
+              <div
+                class="card"
+              >
+                <p
+                  class="info-item-bold"
+                >
+                  TOTAL
+                </p>
+                <p
+                  class="price"
+                >
+                  <span>
+                    R$618,90
+                  </span>
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+    >
+      <div
+        class="success"
+      >
+        <img
+          alt="success"
+          src="/assets/images/success.png"
+        />
+      </div>
+      <h2>
+        PAGAMENTO
+      </h2>
+      <div
+        class="pagamento"
+      >
+        <p>
+          1212 1212 1212 1212
+        </p>
+        <p>
+          CRISTIANO SAITO DE SOUZA
+        </p>
+        <p>
+          11/1111
+        </p>
+      </div>
+      <h2>
+        PRODUTOS
+      </h2>
+      <div>
+        <ul
+          class="product-list"
+        >
+          <li
+            class="product"
+          >
+            <div
+              class="card"
+            >
+              <img
+                alt="L'Oréal Professionnel Expert Absolut Repair Cortex Lipidium - Máscara de Reconstrução 500g"
+                src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/6/loreal-professionnel-expert-absolut-repair-cortex-lipidium-mascara-de-reconstrucao-500g-24410-963234120108391775.png"
+              />
+              <p
+                class="description"
+              >
+                L'Oréal Professionnel Expert Absolut Repair Cortex Lipidium - Máscara de Reconstrução 500g
+              </p>
+            </div>
+          </li>
+          <li
+            class="product"
+          >
+            <div
+              class="card"
+            >
+              <img
+                alt="Good Girl Carolina Herrera Eau de Parfum - Perfume Feminino 30ml"
+                src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/6/good-girl-carolina-herrera-eau-de-parfum-perfume-feminino-30ml-38273-1960525940762131267.jpg"
+              />
+              <p
+                class="description"
+              >
+                Good Girl Carolina Herrera Eau de Parfum - Perfume Feminino 30ml
+              </p>
+            </div>
+          </li>
+          <li
+            class="product"
+          >
+            <div
+              class="card"
+            >
+              <img
+                alt="Senscience Inner Restore Intensif - Máscara Capilar 50ml"
+                src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/6/senscience-inner-restore-intesif-deep-repairing-masque-mascara-de-tratamento-50ml-3019-7903251722539384904.png"
+              />
+              <p
+                class="description"
+              >
+                Senscience Inner Restore Intensif - Máscara Capilar 50ml
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <ul
+          class="info-table"
+        >
+          <li
+            class="info"
+          >
+            <div
+              class="card"
+            >
+              <p
+                class="info-item"
+              >
+                PRODUTOS
+              </p>
+              <p
+                class="price"
+              >
+                <span>
+                  R$624,80
+                </span>
+              </p>
+            </div>
+          </li>
+          <li
+            class="info"
+          >
+            <div
+              class="card"
+            >
+              <p
+                class="info-item"
+              >
+                FRETE
+              </p>
+              <p
+                class="price"
+              >
+                <span>
+                  R$5,30
+                </span>
+              </p>
+            </div>
+          </li>
+          <li
+            class="info"
+          >
+            <div
+              class="card"
+            >
+              <p
+                class="info-item-orange"
+              >
+                DESCONTO
+              </p>
+              <p
+                class="price"
+              >
+                <span>
+                  R$30,00
+                </span>
+              </p>
+            </div>
+          </li>
+          <li
+            class="info"
+          >
+            <div
+              class="card"
+            >
+              <p
+                class="info-item-bold"
+              >
+                TOTAL
+              </p>
+              <p
+                class="price"
+              >
+                <span>
+                  R$618,90
+                </span>
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

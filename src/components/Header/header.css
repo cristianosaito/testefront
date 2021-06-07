@@ -1,0 +1,40 @@
+nav {
+  background: #fff;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+  justify-content: center;
+  align-items: center;
+}
+a {
+  color: #ccc;
+  text-decoration: none;
+}
+.menu {
+  list-style-type: none;
+  align-items: flex-start;
+  background: none;
+  width: 100%;
+  text-align: center;
+}
+.item {
+  font: Helvetica Neue;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  display: inline;
+  width: auto;
+}
+.active {
+  color: #ff7800;
+}
+
+.item:not(.button) a:hover,
+.item a:hover::after {
+  color: #ff7800;
+}

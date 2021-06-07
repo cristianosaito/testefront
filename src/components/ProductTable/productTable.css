@@ -1,0 +1,40 @@
+.product-list {
+  list-style-type: none;
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product {
+  list-style-type: none;
+  border: 1px #eee solid;
+  border-radius: 3px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+img {
+  width: 65px;
+}
+
+.description {
+  color: #212122;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.price {
+  color: #212122;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: bold;
+}

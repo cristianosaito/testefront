@@ -1,0 +1,54 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  width: 65px;
+}
+
+.price {
+  color: #212122;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: bold;
+}
+
+.info-table {
+  list-style-type: none;
+  padding: 5px;
+  border: 1px #ccc solid;
+  border-radius: 3px;
+}
+
+.info {
+  list-style-type: none;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.info-item {
+  color: #212122;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: regular;
+}
+
+.info-item-orange {
+  color: #ff7800;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: regular;
+}
+
+.info-item-bold {
+  color: #212122;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: bold;
+}
